@@ -1,0 +1,9 @@
+site_name: RFID 安全手册
+site_description: RFID Security
+repo_url: https://github.com/iternull-team/hack-rfid-security-cn/
+theme: readthedocs
+
+pages:
+- Welcome: index.md
+
+copyright: Copyright &copy; 2016 <a href="https://www.iternull.com/">IterNull</a>.
